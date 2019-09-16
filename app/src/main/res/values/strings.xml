@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginDemo_Android</string>
+    <string name="textName">User name</string>
+    <string name="textPassword">Password</string>
+    <string name="textLogin">I’m beat</string>
+    <string name="textLoginFail">Login failed</string>
+    <string name="textResult">Ｂite the dust</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textInputToSomethingIdiot">Input To Something Idiot</string>
+    <string name="textInsertFail">InsertFail</string>
+    <string name="textInsertSuccess">InsertSuccess</string>
+    <string name="textNoNetwork">NoNetwork</string>
+</resources>
